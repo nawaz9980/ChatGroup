@@ -2,7 +2,7 @@
 module.exports = {
     // Welcome message template
     // Available placeholders: {name}, {username}, {chat}
-    welcomeMessage: `🎉 Welcome to {chat}, {name}!\n\n` +
+    welcomeMessage: `🎉 Welcomes to {chat}, {name}!\n\n` +
                    `We're glad to have you here. Please take a moment to read our community guidelines and feel free to introduce yourself!\n\n` +
                    `Click the button below to learn more about our community.`,
     
